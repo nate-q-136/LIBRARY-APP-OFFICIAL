@@ -1,0 +1,16 @@
+﻿  MainForm.cpp
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\AdminOption.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\AdminOption.h(806,22): warning C4018: '<': signed/unsigned mismatch
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\AdminOption.h(822,22): warning C4018: '<': signed/unsigned mismatch
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\AdminOption.h(932,22): warning C4018: '<': signed/unsigned mismatch
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\AdminOption.h(946,22): warning C4018: '<': signed/unsigned mismatch
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\UserOption.h(385,20): warning C4018: '<': signed/unsigned mismatch
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\SignIn_Register.h(567,1): warning C4102: 'Register': unreferenced label
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\SignIn_Register.h(615,1): warning C4102: 'SignIn': unreferenced label
+  SignIn_Register.cpp
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\UserOption.h(385,20): warning C4018: '<': signed/unsigned mismatch
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\SignIn_Register.h(567,1): warning C4102: 'Register': unreferenced label
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\SignIn_Register.h(615,1): warning C4102: 'SignIn': unreferenced label
+  Generating Code...
+  AdminOption.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PBL2APP.vcxproj -> C:\Downloads\LIBRARY APP\PBL2APP\Debug\PBL2APP.exe

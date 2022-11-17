@@ -1,0 +1,11 @@
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\Debug\PBL2APP.vcxproj.AssemblyReference.cache
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\Debug\PBL2APP.vcxproj.SuggestedBindingRedirects.cache
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\Debug\PBL2APP.AdminOption.resources
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\Debug\PBL2APP.MainForm.resources
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\Debug\PBL2APP.SignIn_Register.resources
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\Debug\PBL2APP.UserOption.resources
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\Debug\PBL2APP.ViewAdminOption1.resources
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\Debug\PBL2APP.ViewUserOption.resources
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\Debug\PBL2APP.vcxproj.GenerateResource.cache
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\Debug\PBL2APP.ViewStudentsBorrowing.resources
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\Debug\PBL2APP.ViewAllStudentAccounts.resources

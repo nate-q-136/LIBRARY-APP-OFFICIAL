@@ -1,0 +1,8 @@
+﻿  AdminOption.cpp
+  MainForm.cpp
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\SignIn_Register.h(536,1): warning C4102: 'Register': unreferenced label
+C:\Downloads\LIBRARY APP\PBL2APP\PBL2APP\SignIn_Register.h(613,1): warning C4102: 'SignIn': unreferenced label
+  ViewAdminOption.cpp
+  Generating Code...
+  AdminOption.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PBL2APP.vcxproj -> C:\Downloads\LIBRARY APP\PBL2APP\x64\Debug\PBL2APP.exe
